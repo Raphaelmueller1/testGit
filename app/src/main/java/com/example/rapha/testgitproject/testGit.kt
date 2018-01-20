@@ -8,5 +8,7 @@ class testGit : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_test_git)
+        println("hello World")
+        println("second commit")
     }
 }
