@@ -10,5 +10,6 @@ class testGit : AppCompatActivity() {
         setContentView(R.layout.activity_test_git)
         println("hello World")
         println("second commit")
+
     }
 }
