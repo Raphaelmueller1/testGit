@@ -9,5 +9,6 @@ class testGit : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_test_git)
         println("hello World")
+        println("second commit")
     }
 }
